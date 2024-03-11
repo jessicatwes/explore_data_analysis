@@ -1,2 +1,2 @@
-# explore_data_analysis
+# Exploring Data
 Finding different datasets to practice data analysis.
