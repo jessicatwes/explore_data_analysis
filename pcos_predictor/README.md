@@ -1,4 +1,4 @@
-# pcos_predictor
-Exploring PCOS dataset to determine if there are predictor markers
+# Predictor of PCOS
+Exploring PCOS dataset to determine if there are predictor markers using the 'pcos-dataset' downloaded from [Kaggle](https://www.kaggle.com/datasets/shreyasvedpathak/pcos-dataset/). Data exploration done in Google's Colab/Jupyter notebook.
 
-Dataset downloaded from https://www.kaggle.com/datasets/shreyasvedpathak/pcos-dataset/
+![Correlation of features and PCOS](pcosdataex.png)
